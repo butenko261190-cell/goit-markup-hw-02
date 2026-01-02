@@ -109,32 +109,65 @@ ul {
   background-color: #f4f4fd;
 }
 .our-team-title {
-  display: none;
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
 }
-.team-worker,
-.team-worker-position {
+.team-worker {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-. .team-item {
+.team-item {
   background-color: #fff;
 }
 .team-worker,
 .team-worker-position {
   text-align: center;
 }
-/*! Portfolio */
 
+/*! Portfolio */
+.portfolio-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+}
+.portfolio-item-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.2em;
+}
+.portfolio-item-text {
+  color: #434455;
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.2em;
+}
 /*footer*/
 .footer-logo .logo-part {
-  color: #f4f4fd.;
+  color: #f4f4fd;
 }
 footer {
   background-color: #2e2f42;
 }
 .footer-text {
-  color: #434455;
+  color: #f4f4fd;
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
