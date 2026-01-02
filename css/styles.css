@@ -138,23 +138,23 @@ ul {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
 }
 .portfolio-item-title {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.2em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .portfolio-item-text {
   color: #434455;
 
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.2em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 /*footer*/
 .footer-logo .logo-part {
