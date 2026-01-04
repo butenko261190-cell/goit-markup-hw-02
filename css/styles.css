@@ -7,6 +7,7 @@ body {
 a {
   text-decoration: none;
 }
+
 ul {
   list-style: none;
 }
@@ -117,15 +118,23 @@ ul {
   line-height: 1.1;
   letter-spacing: 0.02em;
 }
+.team-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+
+  justify-content: center;
+}
+
+.team-item {
+  background-color: #fff;
+}
 .team-worker {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-.team-item {
-  background-color: #fff;
 }
 .team-worker,
 .team-worker-position {
@@ -141,6 +150,7 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
+
 .portfolio-item-title {
   color: #2e2f42;
   font-size: 20px;
@@ -153,7 +163,7 @@ ul {
 
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 /*footer*/
