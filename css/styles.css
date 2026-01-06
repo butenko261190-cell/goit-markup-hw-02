@@ -17,7 +17,7 @@ ul {
   font-style: normal;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
   color: #4d5ae5;
@@ -32,7 +32,7 @@ ul {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .nav-link:hover,
@@ -46,7 +46,7 @@ ul {
   font-size: 16px;
   font-style: normal;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .contacts-link:hover,
@@ -118,13 +118,14 @@ ul {
   line-height: 1.1;
   letter-spacing: 0.02em;
 }
+/* 
 .team-list {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
 
   justify-content: center;
-}
+} */
 
 .team-item {
   background-color: #fff;
